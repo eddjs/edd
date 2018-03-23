@@ -1,0 +1,9 @@
+{
+  "name": "edd",
+  "version": "0.0.0",
+  "description": "Experiment Driven Development",
+  "main": "src/index.js",
+  "repository": "git@github.com:willin/edd.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT"
+}
